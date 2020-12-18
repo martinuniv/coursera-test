@@ -1,2 +1,2 @@
 # coursera-test
-Coursera tezxt
+Coursera test repository
